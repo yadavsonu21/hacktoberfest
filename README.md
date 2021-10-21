@@ -1,14 +1,7 @@
 # hacktoberfest
 This Repository is made only for hacktober 2021 submissions.
 
-# Hacktoberfest Hello World !!!
 
-HacktoberFest Hello World in every other language ever.
-Just fork it and add a `'Hello World'` program to contribute for hacktober fest and send a Pull Request!!
-
-### Get yourself free goodies by just writing a hello world!
-
-Say hi to the world in any language of your choice!
 
 # What is Hacktoberfest?
 
@@ -24,9 +17,9 @@ https://hacktoberfest.digitalocean.com/
 
 ### 2. Fork it :fork_and_knife:
 
-You can get your own fork/copy of [Hacktoberfest](https://github.com/shivaylamba/Hacktoberfest) by using the <kbd><b>Fork</b></kbd></a> button or clicking [this](https://github.com/shivaylamba/Hacktoberfest/).
+You can get your own fork/copy of [Hacktoberfest](https://github.com/yadavsonu21/Hacktoberfest) by using the <kbd><b>Fork</b></kbd></a> button or clicking [this](https://github.com/shivaylamba/Hacktoberfest/).
 
-[![Fork Button](https://help.github.com/assets/images/help/repository/fork_button.jpg)](https://github.com/shivaylamba/Hacktoberfest)
+[![Fork Button](https://help.github.com/assets/images/help/repository/fork_button.jpg)](https://github.com/yadavsonu21/Hacktoberfest)
 
 ### 3. Add a Program in any Language you like :rabbit2:
 
@@ -36,7 +29,7 @@ You can take a look to the [Programming Language List](https://en.wikipedia.org/
 ### 4. Ready, Steady, Go... :turtle: :rabbit2:
 
 Once you have completed these steps, you are ready to start contributing
-by checking our `Help Wanted` issues and creating [pull requests](https://github.com/shivaylamba/Hacktoberfest/pulls).
+by checking our `Help Wanted` issues and creating [pull requests](https://github.com/yadavsonu21/Hacktoberfest/pulls).
 
 ### 5. Give this Project a Star :star:
 
@@ -136,7 +129,7 @@ We’ll first go over configuring a remote for the fork, then syncing the fork.
 Next, you’ll have to specify a new remote upstream repository for us to sync with the fork. This will be the original repository that you forked from. You’ll have to do this with the `git remote add` command.
 
 ```
-git remote add upstream https://github.com/shivaylamba/Hacktoberfest.git
+git remote add upstream https://github.com/yadavsonu21/Hacktoberfest.git
 ```
 
 In this example, `upstream` is the shortname we have supplied for the remote repository since in terms of Git, “upstream” refers to the repository that you cloned from. If you want to add a remote pointer to the repository of a collaborator, you may want to provide that collaborator’s username or a shortened nickname for the shortname.
